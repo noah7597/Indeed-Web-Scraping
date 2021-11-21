@@ -1,7 +1,7 @@
 # Indeed-Web-Scraping
 
 ## General info
-This is a Python script I made that uses beautifulsoup and requests
+This is a Python script I made that uses beautifulsoup and requests to scrap Indeed.com
 
 ## Installations
 ### Beautiful Soup
